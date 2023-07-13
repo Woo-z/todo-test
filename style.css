@@ -1,0 +1,12 @@
+.complete {
+  text-decoration: line-through;
+  color: gray;
+}
+* {
+  text-align: center;
+}
+ul {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
