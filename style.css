@@ -5,8 +5,32 @@
 * {
   text-align: center;
 }
+body {
+  /* background-color:; */
+}
+input:hover {
+  background-color:silver;
+  border: 1px solid dark;
+}
+#addBtn {
+  color: white;
+  background-color:darkorange;
+  border-radius: 30%;
+  border: 1px solid darkorange;
+}
+#addBtn:hover {
+  color: white;
+  background-color: darkgreen;
+  border-radius: 30%;
+  border: 1px solid darkgreen;
+}
 ul {
   display: table;
   margin-left: auto;
   margin-right: auto;
+}
+li button{
+  margin: 7px;
+  border-radius: 40%;
+  border: 1px solid dark;
 }
